@@ -1,14 +1,14 @@
 
-HOST = "chunee.db.elephantsql.com"
-PASSWORD = "wLO_hmanQ0-IZKvqzH0Dd04H5eydQSpH"
-USER = "orblsdjw"
-DATABASE_NAME = "orblsdjw"
+HOST = "*"
+PASSWORD = "*"
+USER = "*"
+DATABASE_NAME = "*"
 PORT = 5432
 # .env fayl ichidan quyidagilarni o'qiymiz
-BOT_TOKEN = '1935649886:AAFnd3uv8bqkTkekR56ANBKR5uB13rhBlfQ'  # Bot token
-ADMINS = ['1468429008']  # adminlar ro'yxati
+BOT_TOKEN = '*'  # Bot token
+ADMINS = ['*']  # adminlar ro'yxati
 IP = 'localhost'  # Xosting ip manzili
-kanal = -1001511241892
+kanal = -*
 code_list = ["90","91", "33", "99", "93", "97","83","88","94", "71", "95"]
 textx = """
 ✨Бизнинг компаниямиз, Ўзбекистонда чет эл сифатидаги поябзал махсулотларини ишлаб чиқарувчи  30 йиллик тажрибага эга энг йирик корхона хисобланади. Биз таклиф қилаётган махсулотлар энг сўнгги русумдаги ва сифатли технологиялар асосида халқаро сифат талабларига  мос келган холда ишлаб чиқарилади. Бизнинг ишлаб чиқарилган махсулотимиз тоза териси, дизайни, ранглар хилма-хиллиги ва сервис хизмати жихатдан, ишлатишнинг қулайлиги хар бир инсон учун жуда хам ажойиб таклиф хисобланади.
